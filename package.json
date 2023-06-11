@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ajstyza/sql_department_database#readme",
   "dependencies": {
-    "inquirer": "^9.2.7",
+    "inquirer": "^8.2.0",
     "mysql2": "^3.3.3"
   }
 }
