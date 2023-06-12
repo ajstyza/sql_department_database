@@ -12,7 +12,7 @@ CREATE TABLE roles (
    professor 
    lecturer
    TA 
-
+   department_chair
 );
 
 CREATE TABLE employees (
@@ -26,7 +26,7 @@ CREATE TABLE employees (
 );
 
 CREATE TABLE salary (
-   
+
 )
 
 
