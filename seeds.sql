@@ -16,6 +16,10 @@ VALUES
 
 
 INSERT INTO employees (employee_id, first_name, last_name, role_id, job_title, department_name, manager_id)
-(001, "Mark", "Hamil", )
+VALUES
+(001, "Mark", "Hamil"),
+(002, "Reginald", "Horseman"),
+(003, "Ricky", "Ricardo"),
+(004, "Mark", "Bolan");
 
 
